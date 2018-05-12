@@ -1,0 +1,28 @@
+_repo: Proceedings-Third-National-Conference-Workmen-s-Compensation-for-Industrial-Accidents_44214
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44214-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: National Conference on Workmen's Compensation for Industrial Accidents
+    gutenberg_agent_id: '43221'
+    url: http://www.gutenberg.org/2009/agents/43221
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Employers'' liability -- United States'
+- !lcsh 'Industrial accidents'
+- !lcc 'HD'
+- !lcsh 'Accident insurance'
+- !lcsh 'Employers'' liability -- Congresses'
+title: Proceedings, Third National Conference Workmen's Compensation for Industrial
+  Accidents
+url: http://www.gutenberg.org/ebooks/44214
