@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43221'
     url: http://www.gutenberg.org/2009/agents/43221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44214#Proceedings-Third-National-Conference-Workmen-s-Compensation-for-Industrial-Accidents
 gutenberg_issued: '2013-11-18'
 gutenberg_type: Text
 identifiers:
